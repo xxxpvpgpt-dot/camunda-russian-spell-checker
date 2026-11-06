@@ -12,7 +12,7 @@
 ## Свежая версия
 [camunda-russian-spell-checker-v0.6.28.zip](https://github.com/xxxpvpgpt-dot/camunda-russian-spell-checker/blob/e4bbfba5d69e71851ac8703394e1bb1a0c445c7c/camunda-russian-spell-checker-v0.6.28.zip)
 
-[camunda-russian-spell-checker-v0.6.33.zip] (https://github.com/xxxpvpgpt-dot/camunda-russian-spell-checker/blob/2d36b91caa8fd53800535ff41ba4e2e609d7c535/camunda-russian-spell-checker-v0.6.33.zip)
+[camunda-russian-spell-checker-v0.6.33.zip](https://github.com/xxxpvpgpt-dot/camunda-russian-spell-checker/blob/2d36b91caa8fd53800535ff41ba4e2e609d7c535/camunda-russian-spell-checker-v0.6.33.zip)
 ## Политика стабильных версий
 
 Стабильные версии дополнительно фиксируются отдельными Git-ветками вида `stable/vX.Y.Z`, чтобы к ним можно было вернуться независимо от дальнейшей разработки.
